@@ -1,4 +1,4 @@
-const apiKey = 'd6fb2314329149019f86057f52f2446e';
+const apiKey = 'Your News Api Key';
 
 const apiUrl = `https://newsapi.org/v2/top-headlines?country=us&apiKey=${apiKey}`;
 
