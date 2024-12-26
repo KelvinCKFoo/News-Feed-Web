@@ -25,7 +25,7 @@ News-Feed-Web/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/news-updater.git
+git clone https://github.com/KelvinCKFoo/News-Feed-Web.git
 cd news-updater
 ```
 
