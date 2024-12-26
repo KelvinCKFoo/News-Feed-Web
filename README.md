@@ -26,7 +26,6 @@ News-Feed-Web/
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/KelvinCKFoo/News-Feed-Web.git
-cd news-updater
 ```
 
 ### 2. Set Up Your API Key
